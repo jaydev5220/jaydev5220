@@ -1,4 +1,4 @@
-# Hi, I'm Jaydev! 👋
+# Hi, I'm Jay! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, learning, and contributing to open-source projects. Here's a little about me:
 
