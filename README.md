@@ -23,6 +23,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and contrib
 
 ## 📫 Get In Touch
 - **GitHub:** [github.com/jaydev5220](https://github.com/jaydev5220)
-- **Email:** [Insert your email address]
+- **Email:** iamjay522@gmail.com
 
 Let's connect and create something awesome together! 🚀
